@@ -1,0 +1,16 @@
+{
+    "firstname": "Sharon",
+    "gender": true,
+    "height": 160,
+    "email": "sharon@gmail.com",
+    "adrs": {
+        "city": "Taipei",
+        "location": "Daian"
+    },
+    "phone":{
+        "Tel": "0-2132456",
+        "phone":"0912-3456789"
+    },
+    "cars": ["BMW", "Audi", "BenZ"]
+
+}
